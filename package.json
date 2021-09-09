@@ -1,0 +1,14 @@
+{
+  "name": "voicebot",
+  "version": "1.0.0",
+  "description": "Different docker compose file for each component - redis-network is used for within docker communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
